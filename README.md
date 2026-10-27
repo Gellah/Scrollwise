@@ -13,3 +13,6 @@ Predicts whether a student's social media use is Beneficial, Neutral or Negative
     npm run dev                    # http://localhost:5173
 
 Set `VITE_API_URL` if the API lives elsewhere. Keep scikit-learn at 1.8.0 so the saved model and scaler load cleanly.
+
+⚠️ Disclaimer
+This project was built for educational purposes only as part of a class project. All AI predictions are estimates for learning purposes and should not be considered as guaranteed performance metrics.
